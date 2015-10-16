@@ -1,3 +1,26 @@
 body {
     text-align: center;
 }
+
+#board {
+	max-width: 505px;
+	margin: 0 auto;
+	text-align: left;
+	padding-top: 20px;
+}
+
+#score {
+	margin-bottom: 20px;
+	font-weight: bold;
+}
+
+#lives{
+	margin-bottom: -20px;
+	font-weight: bold;
+}
+
+#restartButton {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
